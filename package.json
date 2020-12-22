@@ -1,0 +1,12 @@
+{
+  "name": "curd.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start":"nodemon app.js"
+  },
+  "author": "Tarun@node",
+  "license": "ISC"
+
+}
