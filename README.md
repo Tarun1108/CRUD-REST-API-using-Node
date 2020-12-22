@@ -1,7 +1,7 @@
 
 
 
-# CRUD-REST-API-using-Node
+# CRUD-REST-API-using-Nodejs
 
 
 In this project we are using multiple packages like, Mongodb, express, mongoose and nodemon for the changes. 
@@ -14,7 +14,7 @@ Node-Rest-Api-Mongodb..
 
 This is a simple REST API with Node and Express with Mongodb Database
 
-REST ful..
+REST full..
 
 Basic API Authentication..
 
